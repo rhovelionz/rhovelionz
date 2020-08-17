@@ -5,6 +5,8 @@
 
 ![badge](https://www.hackthebox.eu/badge/image/122977)
 
+[![Corshine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=corshinecorshine&show_icons=true&theme=buefy)](https://github.com/corshinecorshine)
+
 ******
 
 <p align="center">
@@ -16,5 +18,4 @@
 
 ******
 
-[![Corshine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=corshinecorshine&show_icons=true&theme=buefy)](https://github.com/corshinecorshine)
 
