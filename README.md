@@ -1,7 +1,4 @@
-- **Penetration Tester & Red Team**
-- **Security Researcher**
-- **Cloud Security**
-- **CTF Player in SecArmy**
+![badge](https://www.hackthebox.eu/badge/image/122977)
 
 [![Corshine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=corshinecorshine&show_icons=true&theme=dracula)](https://github.com/corshinecorshine)
 
@@ -14,4 +11,3 @@
 <a href="https://www.corshinecorshine.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
 
 
-![badge](https://www.hackthebox.eu/badge/image/122977)
