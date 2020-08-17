@@ -3,7 +3,7 @@
 - **Cloud Security**
 - **CTF Player in SecArmy**
 
-[![Corshine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=corshinecorshine&show_icons=true&theme=buefy)](https://github.com/corshinecorshine)
+[![Corshine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=corshinecorshine&show_icons=true&theme=dracula)](https://github.com/corshinecorshine)
 
 ******
 
