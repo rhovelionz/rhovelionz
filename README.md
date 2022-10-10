@@ -1,6 +1,6 @@
 ![badge](https://www.hackthebox.eu/badge/image/122977)
 
-[![rhovelionz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhovelionz&show_icons=true&theme=dracula)](https://github.com/rhovelionzrhovelionz)
+[![rhovelionz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhovelionz&show_icons=true&theme=dracula)](https://github.com/rhovelionz)
 
 
 [![Instagram: rhovelionz](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/radivanhanief)
